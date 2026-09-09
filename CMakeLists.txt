@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 4.3)
+project(DSA)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(DSA
+        "Leetcode Questions/Maximum Subarray Sum.cpp")
