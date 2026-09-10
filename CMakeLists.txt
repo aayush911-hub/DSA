@@ -4,4 +4,4 @@ project(DSA)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(DSA
-        "Leetcode Questions/Maximum Subarray Sum.cpp")
+        "Leetcode Questions/Majority Element.cpp")
