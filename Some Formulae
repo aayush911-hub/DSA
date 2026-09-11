@@ -1,0 +1,5 @@
+# Recursion
+    -> Time Complexity = (Total no. of calls) * (Work done in each call)
+    -> Space Complexity = (Depth of recursion tree) * (Memory in each cell)
+
+ 
