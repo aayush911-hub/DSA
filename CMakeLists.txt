@@ -4,5 +4,5 @@ project(DSA)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(DSA
-        "Leetcode Questions/Majority Element.cpp"
+        "Leetcode Questions/Find the Difference.cpp"
 )
