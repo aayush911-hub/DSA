@@ -4,5 +4,6 @@ project(DSA)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(DSA
-        "Questions/Binary Exponentiation.cpp"
+        "Leetcode Questions/Best time to buy and sell stock.cpp"
+
 )
